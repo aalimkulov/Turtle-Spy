@@ -7,5 +7,5 @@ A Remote Spy with a built in Remote Brower which allows you to see any Remote Ev
 
 Script:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Turtle-Brand/Turtle-Spy/main/source.lua", true))()
+loadstring(game:HttpGet("https://github.com/aalimkulov/Turtle-Spy/raw/refs/heads/main/source.lua", true))()
 ```
